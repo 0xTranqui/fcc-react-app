@@ -15,6 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "homepage": "https://0xtranqui.github.io/fcc-react-app",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
